@@ -38,3 +38,6 @@
 
 # Ignore local .vagrant directory
 .vagrant
+
+# Ignore bundler installed dependencies
+/vendor/bundle/
